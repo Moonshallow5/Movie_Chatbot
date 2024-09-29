@@ -1,5 +1,15 @@
 # Movie_Chatbot
 
+![Outputs](images/output1.png)
+
+![Output2](images/output2.png)
+
+
+![Output3](images/output3.png)
+
+
+Program works even without saying "yes" or "no" due to sentiment analysis with BERT
+
 ## 😀Introduction
 
 I always found NLP intresting and what better way to learn more about NLP than building a chatbot using BERT language model?
